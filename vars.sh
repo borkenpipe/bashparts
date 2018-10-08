@@ -7,6 +7,5 @@ export PATH=$PATH:$SYSTEM_PATH_BIN/
 
 export PATH
 
-
-
+export EDITOR=vim
 
